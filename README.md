@@ -10,10 +10,10 @@ Um Aplicativo de tela: Gestão de Leads.
 Um App Dynamics 365 Customizado: Dexter_ADM
 
 ### Fluxos do app:
-Listar Leads
-Adicionar Leads
-Enviar email de boas vindas para o Lead.
-Visualizar informações do Lead
-Editar registro do Lead
-Deletar registro do Lead.
+1. Listar Leads
+2. Adicionar Leads
+3. Enviar email de boas vindas para o Lead.
+4. Visualizar informações do Lead
+5. Editar registro do Lead
+6. Deletar registro do Lead.
    
